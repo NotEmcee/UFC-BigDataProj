@@ -1,0 +1,13 @@
+{
+  "name": "es-ufc-sink",
+  "config": {
+    "connector.class": "io.confluent.connect.elasticsearch.ElasticsearchSinkConnector",
+    "tasks.max": "1",
+    "topics": "ufc-events",
+    "key.ignore": "true",
+    "connection.url": "http://elasticsearch:9200",
+    "type.name": "_doc",
+    "schema.ignore": "true",
+    "auto.create.indices.at.start": "true"
+  }
+}
