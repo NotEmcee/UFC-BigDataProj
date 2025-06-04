@@ -103,4 +103,4 @@ Visualiser ces données à travers des dashboards interactifs pour mieux compren
 
 ---
 
-*Projet réalisé dans le cadre du Semestre 8 à l’UIR, filière Génie Logiciel.*  
+*Projet réalisé dans le cadre du Semestre 8 à l’UIR, filière Génie Logiciel. Module <b> Big Data Technologies </b>*  
