@@ -13,8 +13,8 @@
 - Mme. Nada SBIHI
 
 ### 👨‍💻 Équipe  
-- Fadi BAHTAT (117970)  
-- Ilyas HIMIT (117054)
+- Fadi BAHTAT (117970) [fadi.bahtat@uir.ac.ma]
+- Ilyas HIMIT (117054) [ilyas.himit@uir.ac.ma]
 
 ---
 
